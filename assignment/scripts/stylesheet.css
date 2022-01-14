@@ -1,0 +1,12 @@
+h2 {
+  background-color: pink;
+}
+
+header {
+  background-color: purple;
+}
+
+main {
+  background-color: lightgray;
+  background-image: url("../record.png");
+}
