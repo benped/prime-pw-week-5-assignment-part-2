@@ -8,20 +8,37 @@ h1,h2 {
 }
 
 
-header {
+/* header {
   background-color: purple;
   text-align: center;
 
-}
+} */
 
-main {
+.title {
+  background-color: purple;
+  text-align: center;
+}
+/* Replaces the header tag with title class */
+
+/* main {
+  background-color: lightgray;
+  padding: 1em;
+} */
+
+.questions {
   background-color: lightgray;
   padding: 1em;
 }
+/* Replaces the Main tag with questions class*/
 
 body {
+  /* background-image: url("../record.png");
+  background-repeat:repeat; */
+  margin: 0px;
+}
+
+.fullPage {
   background-image: url("../record.png");
   background-repeat:repeat;
-  margin: 0px;
-  height:auto;
+  height:100vh;
 }
