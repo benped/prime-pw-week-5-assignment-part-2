@@ -4,9 +4,16 @@ h2 {
 
 header {
   background-color: purple;
+  text-align: center;
+
 }
 
 main {
   background-color: lightgray;
+
+}
+
+body {
   background-image: url("../record.png");
+  background-repeat: space;
 }
